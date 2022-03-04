@@ -11,7 +11,7 @@
 - 📫 How to reach me ...
 	- I have a Twitter! twitter.com/JJRC_Here
       
-- I'm currently working on the Unnamed Text RPG Project
+- I'm currently working on the Unnamed RPG Project
 
 ```
 ███    █▄  ███▄▄▄▄   ███▄▄▄▄      ▄████████   ▄▄▄▄███▄▄▄▄      ▄████████ ████████▄  
